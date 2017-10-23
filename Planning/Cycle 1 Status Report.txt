@@ -1,0 +1,14 @@
+All functions in Cycle 1 are finished.
+1. Levels loading from files: 4 formal levels and some hidden levels.
+2. Walls that the player can not move through.
+3. A hero that can move and drop a bomb.
+4. A bomb that can not explode, but the hero can not move through.
+5. Switching between loaded levels with U and D.
+
+Time spent:
+1. 1 hour
+2. 1 hour
+3. 2 hours
+4. 1 hour
+5. 2 hours
+total: 10 hours

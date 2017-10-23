@@ -1,0 +1,11 @@
+All functions in Cycle 3 are finished.
+1. Monsters kill hero
+2. Both kinds of monsters
+3. ALL Power-ups
+4. Going between levels on victory
+5. 2.5 second in invincible time just after respawn
+6. Pasue game using P key.
+7. Display GameOver and Victory
+
+
+1+2+3+4+5+6+7=4.5 hours

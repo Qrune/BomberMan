@@ -1,0 +1,11 @@
+1 add Boss 
+2 add Insturction
+3 2P
+4 Save & Load
+5. Label for time, point and life
+
+
+
+
+Time:
+1+2+3+4+5=4 hours

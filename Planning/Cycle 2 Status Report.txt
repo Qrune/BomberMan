@@ -1,0 +1,24 @@
+All functions in Cycle 2 are finished.
+1. Bombs exploding 
+2. All bomb results:
+   bomb vs. brick: brick will be destroyed and a random power up may randomly be created.
+   bomb vs. concrete: the firewave can not pass the concrete.
+   bomb vs. player: the player will die.
+   bomb vs. bomb: currently, a hero can only drop 1 bomb, unless he gets the power up that 
+                  allows him to drop more bombs. If a secont bomb is in the shockwave of an
+                  exploding bomb, this bomb will also explode.
+3. Two kinds of monster:
+   Valcom and ONeal, each with different pictures.
+   
+Time spent:
+1. 1 hour
+2. 6 hours
+3. 3 hours
+total: 10 hours
+
+bug repair:
+lih: repair the bug that when speed up, it may counter the out of bound error
+liuz7:repair the bug that judgement whether there is a brick in front of boomberman
+      repair the bug that boomber man will get locked inside the boom
+gaoy2:repair the bug that boom did not disappear from the arraylist-map
+      repair the bug that boomber man can not go along the brick edge
